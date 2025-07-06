@@ -38,47 +38,6 @@ A sample banking website (Parabank-style).
 │ └── java
 │ └── TestCases # All Test Classes
 
-# Banking Automation Testing Project 🏦✅
-
-Automated testing project for a sample banking web application, designed to validate key user flows such as registration, account management, fund transfer, and profile updates.
-
----
-
-## 📌 Project Name:
-**Banking Automation Testing**
-
----
-
-## 🌐 Application Under Test:
-A sample banking website (Parabank-style).
-
----
-
-## 🧪 Tools & Technologies Used:
-
-- **Java 17**
-- **Selenium WebDriver**
-- **TestNG**
-- **Maven**
-- **POM Design Pattern (Page Object Model)**
-- **JavaFaker** (for generating dynamic test data)
-- **Allure Reports** (for test reporting)
-- **WebDriverManager** (for managing browser drivers)
-
----
-
-## 📁 Project Structure:
-
-├── main
-│ └── java
-│ ├── Pages # All Page Object classes
-│ ├── Utiles # Faker, Screenshot, Helpers
-│ └── PageBase # Shared Base class
-├── test
-│ └── java
-│ └── TestCases # All Test Classes
-
-
 ---
 
 ## ✅ Implemented Test Scenarios:
@@ -114,10 +73,7 @@ A sample banking website (Parabank-style).
 
 ---
 
-## 👤 Author:
-
-## Sayed Salah Eldin - Senior Automation Test Engingeer
-
+## 👤 Author: Sayed Salah Eldin - Senior Automation Test Engingeer
 
 ---
 
